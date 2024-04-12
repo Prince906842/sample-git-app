@@ -17,3 +17,10 @@ st.subheader("DSM2")
 st.subheader("DSM3")
 st.subheader("DSM4")
 st.subheader("DSA")
+
+st.sidebar.title("Menu")
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
