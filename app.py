@@ -1,7 +1,7 @@
 import streamlit as st
 st.title("campusx")
 
-st.image("unnamed.jpg")
+st.image("1.jpg")
 
 col1,col2= st.columns(2)
 
